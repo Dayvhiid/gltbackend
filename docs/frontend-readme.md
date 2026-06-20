@@ -131,4 +131,3 @@ curl -X POST http://localhost:3000/api/verification/upload \
 
 ---
 
-If you want, I can add a small helper endpoint to return the current user profile (`GET /api/auth/me`) so the frontend can poll role changes — would you like that?"
